@@ -6,7 +6,7 @@
   
   "description": "hacekzk",
   
-  "logo": "https://r.resimlink.com/1EsHfc.png",
+  "logo": "https://r.resimlink.com/mPYBax.png",
   
   "twitter": "https://twitter.com/hacekzk"
   
